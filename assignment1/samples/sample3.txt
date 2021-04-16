@@ -1,0 +1,36 @@
+Ivka, 1.5
+15, normal, card
+34, normal, card
+17, normal, cash
+3, normal, card
+6, normal, card
+Sara, 2.75
+19, quick, card
+31, quick, cash
+Eva, 1
+28, slow, cash
+3, quick, card
+32, slow, cash
+38, quick, card
+6, normal, cash
+38, quick, cash
+41, quick, cash
+13, quick, card
+Peter, 1.75
+20, normal, cash
+20, normal, card
+6, normal, cash
+36, quick, cash
+11, slow, card
+35, quick, card
+17, slow, card
+36, normal, card
+28, slow, card
+Nika, 2.25
+22, normal, card
+35, normal, card
+21, normal, card
+33, quick, cash
+12, quick, cash
+4, quick, cash
+36, normal, cash

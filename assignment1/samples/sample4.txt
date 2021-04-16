@@ -1,0 +1,40 @@
+Sandra, 2.25
+7, quick, card
+17, quick, card
+42, normal, cash
+23, normal, card
+21, quick, card
+35, quick, cash
+27, quick, card
+10, quick, card
+5, slow, card
+Livia, 3
+8, normal, cash
+13, quick, cash
+15, slow, cash
+29, slow, cash
+15, normal, card
+29, quick, card
+32, slow, card
+Nika, 2
+38, normal, card
+17, slow, card
+21, quick, card
+8, normal, cash
+30, normal, cash
+31, quick, card
+7, slow, cash
+27, slow, card
+10, slow, cash
+23, quick, card
+Robo, 0.75
+49, slow, card
+10, slow, cash
+Ivka, 1.5
+47, normal, card
+3, quick, cash
+42, slow, card
+15, quick, card
+11, quick, cash
+45, slow, cash
+19, slow, card

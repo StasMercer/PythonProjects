@@ -1,0 +1,26 @@
+Martin, 1
+32, normal, cash
+25, quick, card
+46, slow, card
+30, normal, card
+20, quick, cash
+19, normal, card
+8, slow, cash
+39, normal, card
+Sara, 3
+9, normal, card
+36, normal, cash
+7, quick, card
+14, normal, card
+17, quick, card
+34, quick, card
+46, normal, cash
+12, slow, cash
+15, normal, cash
+Sandra, 2
+10, slow, card
+21, slow, card
+46, slow, card
+17, slow, cash
+9, quick, cash
+29, normal, cash

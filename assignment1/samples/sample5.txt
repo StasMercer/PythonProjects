@@ -1,0 +1,34 @@
+Robo, 1.5
+15, slow, card
+41, normal, card
+12, normal, cash
+32, slow, card
+Kika, 1.25
+47, quick, card
+Maria, 1
+34, quick, card
+41, normal, cash
+5, normal, cash
+34, quick, cash
+35, slow, card
+4, normal, cash
+29, quick, card
+20, normal, card
+35, quick, cash
+Sara, 1.75
+37, quick, cash
+7, normal, cash
+43, slow, cash
+Pavol, 1.25
+39, normal, cash
+31, quick, cash
+12, quick, card
+Pavol, 2.25
+9, slow, cash
+29, normal, cash
+Robo, 2.25
+31, slow, card
+3, quick, card
+26, quick, cash
+Pavol, 1
+29, quick, card

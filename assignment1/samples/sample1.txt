@@ -1,0 +1,14 @@
+Daniel, 2
+20, slow, card
+3, quick, card
+30, slow, cash
+17, normal, card
+Katka, 1.5
+13, slow, cash
+24, normal, card
+Robo, 1
+5, normal, cash
+11, quick, card
+8, slow, card
+Sandra, 1.25
+38, slow, cash
